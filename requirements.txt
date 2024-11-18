@@ -1,0 +1,9 @@
+kagglehub
+gradio
+keras-nlp
+keras
+tensorflow
+huggingface
+dotenv
+csv
+bs4
