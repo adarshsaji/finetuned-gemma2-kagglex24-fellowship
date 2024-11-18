@@ -4,9 +4,9 @@ from typing import List, Tuple
 import gradio as gr
 import time
 import os
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 
-load_dotenv()
+#load_dotenv()
 
 # Load the model
 causal_lm = keras_nlp.models.BartCausalLM.from_preset("kaggle://adarshsaji/gemma/keras/gemma-startup-engine")
